@@ -1,4 +1,4 @@
-## Eu sou o João Voctor Rocha Cândido
+## Eu sou o João Victor Rocha Cândido
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -36,18 +36,6 @@ Sou um desenvolvedor apaixonado por backend, APIs bem feitas, arquitetura limpa 
 - 🔍 Testes automatizados e Clean Code  
 - 📐 Arquitetura em camadas  
 - 🧪 Testes unitários e integração com xUnit / JUnit  
-
----
-
-### 🥋 Curiosidades sobre mim
-
-- Faixa roxa no **Jiu Jitsu**, respeita o tatame!  
-- Curioso por natureza: se der pra aprender, tamo dentro  
-- Temas favoritos: arquitetura limpa, performance, segurança e boas práticas
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-</p>
 
 ---
 
